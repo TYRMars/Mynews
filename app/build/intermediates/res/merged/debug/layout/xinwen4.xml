@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     >
+
+        <TextView
+            android:id="@+id/titles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingTop="10dp"
+            android:text="马云携史玉柱收购国外游戏公司 " />
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/resouce"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:paddingTop="4dp"
+            android:text="科技讯2016-12-12 11:28  "
+            
+            android:textSize="8sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="40dp"
+            android:text="          【科技讯 】8月1日消息，阿里巴巴集团董事局主席马云，日前联合巨人集团董事局主席史玉柱及泛海集团董事局主席卢志强等，斥资44亿美金收购了专注休闲社交手机游戏业务的Playtika公司。 "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+
+
+
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag11" />
+       
+    </LinearLayout>
+    
+        
+  <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="            　美国赌场巨头凯撒集团也在相同时间发布公告，证实了这一收购消息。凯撒集团CEO拉夫曼表示，中国财团已与凯撒集团签订最终协议，根据协议内容，中国财团斥资44亿美元收购以色列移动和社交赌场游戏开发公司Playtika。这笔交易不包括凯撒娱乐世界扑克锦标赛或涉及到现实货币的游戏。Playtika平台上的虚拟货币也继续保持本来面目，不能兑换成真实货币。而Playtika将继续在以色列独立运营，管理团队依旧不变。 "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag12" />
+       
+    </LinearLayout>
+    
+          <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="            众所周知，网络游戏在中国经济中仍然是增速最快的领域之一，据最新发布的《中国游戏产业报告》表明,今年上半年,中国游戏用户人数已经达到4.89亿,游戏销售收入达787.5亿元。全球游戏市场特别是手游市场的中心,正在向中国转移。。 "
+            
+            android:textSize="10sp" />
+        
+    </LinearLayout>
+    
+              </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

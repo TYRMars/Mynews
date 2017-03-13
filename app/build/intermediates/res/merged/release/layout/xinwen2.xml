@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     >
+
+        <TextView
+            android:id="@+id/titles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingTop="10dp"
+            android:text="2015年10款新一代可穿戴设备盘点" />
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/resouce"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:paddingTop="4dp"
+            android:text="来源：腾讯数码 作者：佚名 2016-12-12 11:28  "
+            
+            android:textSize="8sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="40dp"
+            android:text="          在大多数人的印象傍边，可穿戴设备当时的功用根本就只有记步和显现告诉罢了。这种说法尽管并不精确，但也根本属实。但在新的一年里，我们将会看到新一批可穿戴设备的到来，它们的功用则会丰厚得多。最近，科技网站TechRadar就盘点了10款值得等待的新一代可穿戴设备。
+
+　　Olive"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+
+
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag3" />
+       
+    </LinearLayout>
+    
+        
+  <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="           大多数智能腕带只会照顾到你的身体健康，那心思健康又该谁来关怀呢？Olive即是一款可监控佩带者心思情况的腕带，它可对心率和肌肤温度进行检查，然后了解到用户的压力水平。与此同时，它还能追寻用户的方位，和日历进行同步以了解你的生活方式。当感应到用户处于高压状态时，它会通过提示来主张用户放松。
+
+　　沃尔沃自行车头盔 "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag4" />
+       
+    </LinearLayout>
+    
+          <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="            　沃尔沃联合POC及爱立信研发了一款自行车头盔，其特别之处是有才能解救骑行者的生命。这款外型时髦的头盔可提示佩带者周围轿车的存在，与此同时，轿车司机也会通过提示了解到骑行者的间隔。在运用头盔时，用户需求敞开配套的手机运用，以便让头盔所收集到的数据通过云端与轿车司机进行同享。
+
+　　Kairos T-Band "
+            
+            android:textSize="10sp" />
+        
+    </LinearLayout>
+    
+              </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

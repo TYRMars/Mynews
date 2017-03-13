@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:src="@drawable/news1"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:id="@+id/xinwen1"
+                android:padding="10dp" />
+
+            <TextView
+                android:text="三星NOTE7爆炸 敬请关注详情"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView5"
+                android:padding="10dp" />
+
+            <ImageView
+                android:src="@drawable/news2"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:id="@+id/xinwen2"
+                android:padding="10dp" />
+
+            <TextView
+                android:text="穿戴式设备大比拼 敬请关注详情"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView6"
+                android:padding="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:textSize="50sp"
+                android:text=""
+                android:id="@+id/textView3" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

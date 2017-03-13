@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/youke_me.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/youke_me.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/setting.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/setting.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/xinwen3.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/xinwen3.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/registration.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/registration.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/xinwen4.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/xinwen4.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/xinwen1.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/xinwen1.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/wodefragment.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/wodefragment.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/huatifragment.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/huatifragment.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/login.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/fragment_home_1.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/fragment_home_1.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/fragment_home_2.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/fragment_home_2.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/settings.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/xinwen2.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/xinwen2.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/youkemoshi.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/youkemoshi.xml"
+    },
+    {
+        "merged": "/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/res/merged/release/layout/xinwenfragment.xml",
+        "source": "/Users/zhangjianan/Downloads/xinwen2/app/src/main/res/layout/xinwenfragment.xml"
+    }
+]

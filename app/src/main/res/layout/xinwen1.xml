@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     >
+
+        <TextView
+            android:id="@+id/titles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingTop="10dp"
+            android:text="三星将公布Note7爆炸原因 但已排除电池" />
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/resouce"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:paddingTop="4dp"
+            android:text="来源:手机中国 2016-12-12 11:28 http://www.mnw.cn/ 海峡都市报电子版 "
+            
+            android:textSize="8sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="40dp"
+            android:text="          从8月底三星Note7发生首炸事件， 到后来宣布全球召回手机已经过去了太长时间，但从始至终，三星并没有给我们一个非常明确的解释，以至于大多数人都认为事件发生的罪魁祸首就是电池导致的。 "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+
+
+
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag1" />
+       
+    </LinearLayout>
+    
+        
+  <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="            根据三星官方的说法，最快将在12月份公布三星Note7的自燃调查结果，毕竟要在Galaxy S8新品发布会之前公布调查结果才能取得用户的再度信任。 "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag2" />
+       
+    </LinearLayout>
+    
+          <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="            　但按照目前的调查进度看，基本排除了电池引发三星Note7爆炸的罪魁祸首。三星负责电池研究的朴成焕总监称：“三星过早地将自燃原因归结于电池，我认为电池没有问题，或者不是主要问题”。他表示，三星 Note 7手机的“复杂性”导致这么长时间依旧无法找出手机自燃的根本原因。 "
+            
+            android:textSize="10sp" />
+        
+    </LinearLayout>
+    
+              </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

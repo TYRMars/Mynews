@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjianan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_b57a7ca2b8dece4fb1978ba06b08e27eab326ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09c4fb175758c6e34f2a73070ad7e88324bb58fe">
+        <dex dex="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b0f12ae561cde92c96b3bb10b6340c0f619c8a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjianan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/pre-dexed/release/support-v4-19.1.0_b57a7ca2b8dece4fb1978ba06b08e27eab326ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc081740b5d136d8e82e338a12338f1db28e9657">
+        <dex dex="/Users/zhangjianan/Downloads/xinwen2/app/build/intermediates/pre-dexed/debug/instant-run_aea7ddec842165ca00f2e2080e5ac03a94e9acea.jar" />
+    </item>
+
+</items>

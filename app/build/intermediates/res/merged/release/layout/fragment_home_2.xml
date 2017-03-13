@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:src="@drawable/new3"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:id="@+id/new3"
+                android:padding="10dp" />
+
+            <TextView
+                android:text="马云携史玉柱收购国外游戏公司 阿里或进军游戏业
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView5"
+                android:padding="10dp" />
+
+            <ImageView
+                android:src="@drawable/new4"
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:id="@+id/new4"
+                android:padding="10dp" />
+
+            <TextView
+                android:text="oppo R9s Plus图赏：这一刻 更清晰！
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView6"
+                android:padding="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:textSize="50sp"
+                android:text=""
+                android:id="@+id/textView3" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

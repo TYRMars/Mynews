@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+    
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     >
+
+        <TextView
+            android:id="@+id/titles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingTop="10dp"
+            android:text="oppo R9s Plus图赏：这一刻 更清晰！" />
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/resouce"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:paddingTop="4dp"
+            android:text="科技讯2016-12-12 11:28  "
+            
+            android:textSize="8sp" />
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+
+        <TextView
+            android:id="@+id/content1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="40dp"
+            android:text="          【科技讯】12月8日，OPPO在十月中旬发布了两款主打拍照新机，分别为OPPO R9和OPPO R9s Plus，其中OPPO R9s Plus采用了联合索尼开发的IMX398传感器，这项技术不仅带来了业界领先的双核对焦技术，配合上F1.7超大光圈，OPPO R9s Plus拍照更加清晰，OPPO R9s Plus还首次配备了OIS+光学防抖技术，防抖范围相比普通光学防抖增大约40%，现在我们一起看看oppo R9s Plus图赏吧，随后会给大家带来oppo R9s Plus评测。
+             "
+            
+            android:textSize="10sp" />
+    </LinearLayout>
+
+
+
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag13" />
+       
+
+    </LinearLayout>
+    
+                <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag14" />
+       
+
+    </LinearLayout>
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp" >
+<ImageView
+            android:id="@+id/newimag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/newimag15" />
+       
+    </LinearLayout>
+    
+    
+              </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
